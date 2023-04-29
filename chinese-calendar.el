@@ -26,7 +26,7 @@
 ;; installation:
 ;;  put the following line in your .emacs
 ;;
-;;                (add-to-path 'load-path "path/where/to/chinese-calendar.el"
+;;                (add-to-list 'load-path "path/where/to/chinese-calendar.el"
 ;;                (require 'chinese-calendar)
 ;;; Code:
 
